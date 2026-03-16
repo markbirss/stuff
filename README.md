@@ -1,5 +1,7 @@
 # stuff
 
+https://github.com/markbirss/CrowPanel-esp32S3-5.79-inch-eink-display-LVGL-9-port.git
+
 https://github.com/markbirss/GxEPD2_test
 
 https://github.com/markbirss/waveshareLRCL
