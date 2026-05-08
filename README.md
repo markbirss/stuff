@@ -23,6 +23,7 @@ https://github.com/0015/map_tiles_projects
 https://github.com/bakonyiferenc/fbkeyboard
 https://htmlcolorcodes.com/
 
+https://github.com/markbirss/st7789p3.git
 
 https://github.com/markbirss/aic8800-wifi
 
